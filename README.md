@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @CatTiac - Cait
 - 👀 I’m interested in coding/programming, video games (playing & beginning to develop in UE), music (listening & playing), art, nature & dance. 
-- 🌱 I’m currently developing javascript/HTML/CSS/React skills
+- So far I have achieved a Level 2 - Full Certificate in IT User Skills(Open Systems and Enterprise)(ITQ) with CodeNation.
+- 🌱 I’ve recently been working with CodeNation, learning skills in:
+-  Javascript
+-  HTML
+-  CSS
+-  React
+-  Node.js
+-  MongoDB
 
