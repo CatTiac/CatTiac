@@ -7,7 +7,9 @@
 
 - So far I have achieved a Level 2 - Full Certificate in IT User Skills(Open Systems and Enterprise)(ITQ) with CodeNation.
 
-- 🌱 I’ve also recently completed a 12-week 'Master: Coding' bootcamp with CodeNation, learning full stack skills in:
+- 🌱 I’ve also recently completed a 12-week 'Master: Coding' bootcamp with CodeNation, learning a wide variety of full stack skills.
+
+Skills include experience using:
 -  Javascript
 -  HTML5
 -  CSS
@@ -15,6 +17,9 @@
 -  Node.js
 -  MongoDB
 -  Mongoose
--  MySQL
+-  MySQL/Workbench
 -  Sequelize
+-  Express.js
+-  Jest
 -  Basic unit tests
+-  Python
