@@ -13,7 +13,8 @@ Skills include experience using:
 -  Javascript
 -  HTML5
 -  CSS
--  React.js (JSX)
+-  React.js (JSX/Redux)
+-  Next.js
 -  Node.js
 -  MongoDB
 -  Mongoose
