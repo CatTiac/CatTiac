@@ -24,5 +24,5 @@ Skills include experience using:
 -  Jest
 -  Basic unit tests
 -  Python
--Git version control
--Cyber security awareness
+-  Git version control
+-  Cyber security awareness
