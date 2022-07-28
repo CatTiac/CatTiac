@@ -25,4 +25,4 @@ Skills include experience using:
 -  Basic unit tests
 -  Python
 -  Git version control
--  Cyber security awareness
+-  Cyber security awareness - CVE vulnerabilities, vulnerability scans etc.
